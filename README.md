@@ -1,6 +1,6 @@
 # Vehicle Classification and Counting
 
-This system is able to detect and classify vehicles in 4 classes namely *car*, *motorcycle*, *bus* and *truck* and count the total number of vehicles detected and the class that they belong to.
+This system is able to detect and classify vehicles in 4 classes namely *car*, *motorcycle*, *bus* and *truck* and count the total number of vehicles detected in each of those classes.
 
 ## Requirements
 
