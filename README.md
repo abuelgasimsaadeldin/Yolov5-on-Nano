@@ -18,6 +18,6 @@ $ pip install -r requirements.txt
 $ python count.py --source data/vehicle_test_images/*    
 $ python track.py --source data/vehicle_test_videos/live.mp4
 
-### Results 
+### Results from count.py
 
 ![1](https://user-images.githubusercontent.com/68045710/111742863-bf097380-88c3-11eb-9003-910896bf82ce.jpg)
