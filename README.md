@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 
 ### Inference
 
-*detect.py*: Detects vehicles from 4 classes (car, motorcycle, bus and truck) and displays detections on the image window. (suitable for images and videos)   
+*detect.py*: Detects vehicles from 4 classes (car, motorcycle, bus and truck) and displays the detections on the image window. (suitable for images and videos)   
 
 ```bash
 $ python detect.py --source data/vehicle_test_images/* 
