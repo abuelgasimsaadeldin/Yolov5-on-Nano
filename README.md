@@ -43,7 +43,7 @@ $ python track.py --source data/vehicle_test_videos/live.mp4
 
 ### track.py
 
-https://user-images.githubusercontent.com/68045710/116211869-dbc48100-a776-11eb-80b3-fb648ad2e90d.mp4
+https://user-images.githubusercontent.com/68045710/116215551-5b078400-a77a-11eb-849b-d8ea714e4cb6.mp4
 
 
 
