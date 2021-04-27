@@ -12,19 +12,19 @@ $ pip install -r requirements.txt
 
 ### Inference
 
-**detect.py**: Detects vehicles from 4 classes (car, motorcycle, bus and truck) and displays the detections on the image window. (suitable for images and videos)   
+*detect.py*: Detects vehicles from 4 classes (car, motorcycle, bus and truck) and displays the detections on the image window. (suitable for images and videos)   
 
 ```bash
 $ python detect.py --source data/vehicle_test_images/* 
 ```
 
-**count.py**: Detects and counts the number of vehicles detected in each frame and displays it on the image window. (suitable for images)   
+*count.py*: Detects and counts the number of vehicles detected in each frame and displays it on the image window. (suitable for images)   
 
 ```bash
 $ python count.py --source data/vehicle_test_images/* 
 ```
 
-**track.py**: Detects and tracks each vehicle present in the video frame providing it with a unique id number for tracking. (suitable for videos)
+*track.py*: Detects and tracks each vehicle present in the video frame providing it with a unique id number for tracking, then count the number of vehicles that pass through a virtual line. (suitable for videos)
  
  ```bash
 $ python track.py --source data/vehicle_test_videos/live.mp4
