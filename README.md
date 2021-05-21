@@ -44,7 +44,7 @@ live_demo_build_trt.ipynb: Optimize the trained model using TensorRT for faster 
 
 
 
-Training Datasets: Example of images that were used for training both models can be found in this [link](https://drive.google.com/drive/folders/1Dry1vjTSaar014Pxlp1s3_ckTt5B6zeE)
+Training Datasets: Example of images used for training both models can be found in this [link](https://drive.google.com/drive/folders/1Dry1vjTSaar014Pxlp1s3_ckTt5B6zeE)
 
 
 
