@@ -10,7 +10,7 @@ Collision Avoidance in Jetbot is a binary classification task which consists of 
 
 ## Road Following
 
-Road Following in Jetbot is a regression task which teaches the Jetbot to detect a continuous target x and y which will enable the Jetbot to follow a specific path on a track.
+Road Following in Jetbot is a regression task which teaches the Jetbot to detect a continuous target x and y which will allow the Jetbot to follow a specific path on a track.
 
 ## Road Following + Collision Avoidance
 
