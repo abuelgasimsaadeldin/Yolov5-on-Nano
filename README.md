@@ -34,7 +34,7 @@ train_model_resnet18.ipynb: Perform model training using ResNet18 model architec
 live_demo_build_trt.ipynb: Optimize the trained model using TensorRT for faster inference on the Jetson Nano.
 ```
 
-**Note**: For Collision Avoidance, the ```Blocked``` class should include images of obstacles such as **vehicles**, **people**, **stop signs** etc. captured on the track, meanwhile the ```Free``` class should include background images of the empty track where the Jetbot should be free to move around.
+**Note**: For Collision Avoidance, the ```Blocked``` class should include images of obstacles such as **vehicles**, **people**, **stop signs** etc. captured on the track, meanwhile the ```Free``` class should include background images of the empty track where the Jetbot should be free to move around in.
 
 3) Save the TRT models inside the "combine_scripts" folder and run the "RoadFollowing+CollisionAvoidance.ipynb" notebook.
 
@@ -44,7 +44,7 @@ live_demo_build_trt.ipynb: Optimize the trained model using TensorRT for faster 
 
 ![jetbot-gif1-small-10mb](https://user-images.githubusercontent.com/68045710/119227944-040b8980-bb43-11eb-9ea0-78e677f407ff.gif)
 
-Training Dataset: Example of images used for training both models can be found in this [link](https://drive.google.com/drive/folders/1Dry1vjTSaar014Pxlp1s3_ckTt5B6zeE).
+Example of images used for training both models can be found in this [link](https://drive.google.com/drive/folders/1Dry1vjTSaar014Pxlp1s3_ckTt5B6zeE).
 
 
 
