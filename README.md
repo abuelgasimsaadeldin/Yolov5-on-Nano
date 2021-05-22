@@ -44,7 +44,7 @@ live_demo_build_trt.ipynb: Optimize the trained model using TensorRT for faster 
 
 ![jetbot-gif1-small-10mb](https://user-images.githubusercontent.com/68045710/119227944-040b8980-bb43-11eb-9ea0-78e677f407ff.gif)
 
-Training Dataset: Example of images used for training both models can be found in this [link](https://drive.google.com/drive/folders/1Dry1vjTSaar014Pxlp1s3_ckTt5B6zeE)
+Training Dataset: Example of images used for training both models can be found in this [link](https://drive.google.com/drive/folders/1Dry1vjTSaar014Pxlp1s3_ckTt5B6zeE).
 
 
 
