@@ -47,7 +47,7 @@ python3 rename.py --dir images
 dir = path of directory for captured photos
 
 ## Data Augmentation
-*Support Yolo txt and Pascal VOC type file formats*
+Note: *Support Yolo txt and Pascal VOC type file formats*
 ```
  python3 imgAug.py --dir trial --dest result -R -B --bright 2.0 -F
 ```
@@ -80,7 +80,7 @@ python3 remove_jpg.py --dir PATH_TO_DIRECTORY
 dir = path to folder
 
 ## Train, Test, Split scripts for object detections
-*Support Yolo txt and Pascal VOC file formats*
+Note: *Support Yolo txt and Pascal VOC file formats*
 ```
 python train_test_valid.py --dir experiments --train_out train --test_out test --valid_out valid
 ```
