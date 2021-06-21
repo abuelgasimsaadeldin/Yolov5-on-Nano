@@ -47,7 +47,6 @@ python3 rename.py --dir images
 dir = path of directory for captured photos
 
 ## Data Augmentation
-Note: *Support Yolo txt and Pascal VOC type file formats*
 ```
  python3 imgAug.py --dir trial --dest result -R -B --bright 2.0 -F
 ```
@@ -69,9 +68,7 @@ B = use brighness or darkness augmentation
 
 F = use flip augmentation
 
-Please refer to the code for further explaination
-
-*Note: Support Yolo txt and Pascal VOC file formats*
+Please refer to the code for further explaination 
 
 ## Remove '_jpg', '_JPG', '_jpeg' from filenames
 ```
@@ -80,7 +77,7 @@ python3 remove_jpg.py --dir PATH_TO_DIRECTORY
 dir = path to folder
 
 ## Train, Test, Split scripts for object detections
-Note: *Support Yolo txt and Pascal VOC file formats*
+Note: *Supports Yolo txt and Pascal VOC type file formats*
 ```
 python train_test_valid.py --dir experiments --train_out train --test_out test --valid_out valid
 ```
@@ -90,7 +87,6 @@ train_out   = path of train dataset output
 
 test_out    = path of ts
 
-*Note: Support Yolo txt and Pascal VOC file formats*
 
 
 
