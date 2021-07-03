@@ -1,4 +1,4 @@
-# Enabling Yolov5 on Jetson Nano
+# Car and Carplate Detection using Yolov5 on Jetson Nano
 
 The Following scripts work on a Jetson Nano with **JetPack 4.5** image flashed which can be downloading from this [link](https://developer.nvidia.com/jetpack-sdk-45-archive)
 
