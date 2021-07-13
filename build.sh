@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo docker build -t yolov5 .
+sudo docker build -t cargate .
