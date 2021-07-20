@@ -1,6 +1,6 @@
 # Enable Yolov5 on Jetson Nano
 
-The Following scripts work on a Jetson Nano with **JetPack 4.5** image flashed which can be downloading from this [link](https://developer.nvidia.com/jetpack-sdk-45-archive)
+The Following scripts work on a Jetson Nano with **JetPack 4.5** image flashed which can be downloading from this [link](https://developer.nvidia.com/jetpack-sdk-45-archive).
 
 ### Change Docker Default Runtime
 This sets ```"default-runtime": "nvidia"``` in ```/etc/docker/daemon.json```
