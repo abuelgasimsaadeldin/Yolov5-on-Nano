@@ -20,7 +20,7 @@ ls -ltrh /dev/video*
 ```
 
 ### Inference
-Car and Carplate detection using a webcam that is connected to the Jetson Nano
+Car and Carplate detection using a webcam that is connected to the Jetson Nano.
 ```
 ./run.sh
 ```
