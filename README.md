@@ -1,4 +1,4 @@
-# Enable Yolov5 on Jetson Nano
+# Enable Yolov5 on Jetson Nano or PC
 
 The Following scripts work on a Jetson Nano with **JetPack 4.5** image flashed which can be downloading from this [link](https://developer.nvidia.com/jetpack-sdk-45-archive).
 
